@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>532721408582-tatkkvv4pgr2sh7n5g2lbodjv4plc44h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.532721408582-tatkkvv4pgr2sh7n5g2lbodjv4plc44h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>532721408582-b319vql7lbtkh8rrpsk92re91e17e0qe.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEnXHHdwNUEdwIWddMsK11cC0Nfqy4xSY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>532721408582</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.crchat.chatapp</string>
+	<key>PROJECT_ID</key>
+	<string>crapp-c60ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crapp-c60ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:532721408582:ios:397a0de26f58c321084847</string>
+</dict>
+</plist>

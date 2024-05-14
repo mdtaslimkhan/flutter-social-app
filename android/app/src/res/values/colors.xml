@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2449F2</color>
+    <color name="colorPrimaryDark">#3855DA</color>
+    <color name="colorAccent">#595DF6</color>
+<!--    #070820-->
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="transBlack">#2C000000</color>
+
+    <color name="colorPrimaryLight">#FF5972</color>
+
+    <color name="profileBorder">#f9f9f9</color>
+
+    <color name="colorStatusBar">#AB3855DA</color>
+    <color name="colorBlackTrans">#5E616161</color>
+
+
+    <color name="bottom_nav">#272727</color>
+
+    <color name="backgroundWhite">#CDCDCD</color>
+    <color name="chatSpeech">#F6F6F6</color>
+
+    <color name="loaderBg">#AD000000</color>
+
+    <color name="colorRed">#ADFF0707</color>
+
+    <color name="colorRedSolid">#FF0000</color>
+    <color name="mTransparent">#00FFFFFF</color>
+</resources>

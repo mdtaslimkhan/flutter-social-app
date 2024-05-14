@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84584154809",
+    "firebase_url": "https://quickchatting-76f37-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quickchatting-76f37",
+    "storage_bucket": "quickchatting-76f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84584154809:android:e60bd4e35d0846a2affd68",
+        "android_client_info": {
+          "package_name": "com.chatting.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84584154809-ii51ct514ckejpd6un1bql34iujr5lkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUhxQy5HDNCoax04RKQ9_GuupQTbySdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84584154809-ii51ct514ckejpd6un1bql34iujr5lkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

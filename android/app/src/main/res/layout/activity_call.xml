@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CallActivity"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/call_screen_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is call activity"
+        android:gravity="center"
+        android:textSize="@dimen/xxl"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/startChatt"
+        android:text="Start chat"/>
+
+</LinearLayout>
